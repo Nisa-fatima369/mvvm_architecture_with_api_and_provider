@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:mvvm_architecture_with_api_and_provider/utils/routes/routes.dart';
+import 'package:mvvm_architecture_with_api_and_provider/view_model/auth_view_model.dart';
+import 'package:provider/provider.dart';
 
 void main() {
   runApp(const MainApp());
@@ -9,11 +12,15 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: Scaffold(
-        body: Center(
-          child: Text('Hello World!'),
-        ),
+    return MultiProvider(
+      providers: [
+        ChangeNotifierProvider(create: (context) => AuthViewModel()),
+      ],
+      child: MaterialApp(
+        title: 'MVVM Architecture with API and Provider',
+        debugShowCheckedModeBanner: false,
+        onGenerateRoute: Routes().generateRoute,
+        initialRoute: Routes.login,
       ),
     );
   }
