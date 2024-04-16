@@ -1,7 +1,8 @@
 # **Authentication Screens With MVVM Architecture along with API and Provider**
 The application giving a basic structure of MVVM Model, showing the authentication screens with API Integration and Provider State Management.
 
-<img src="https://github.com/Nisa-fatima369/mvvm_architecture_with_api_and_provider/assets/61825717/5e93cda3-46d3-4928-bb9d-67aa8fceaca4" alt="mvvm" width="640" height="380">
+<img src="https://github.com/Nisa-fatima369/mvvm_architecture_with_api_and_provider/assets/61825717/5e93cda3-46d3-4928-bb9d-67aa8fceaca4" alt="mvvm" width="100%" style="max-width: 640px; height: auto;">
+
 
 ## 💻 Installation Steps
 Open CMD where you want to clone the project and run the following commands:
