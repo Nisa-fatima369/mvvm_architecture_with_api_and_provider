@@ -32,9 +32,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 As a Flutter developer, I'm deeply passionate about creating innovative solutions with code.
 Feel free to connect with me on social media:
 
-- LinkedIn: [https://www.linkedin.com/in/nisa-fatima-55679a227](your-linkedin-URL)
-- Instagram: [https://www.instagram.com/nisafatima_369](your-instagram-URL)
-- GitHub: [https://github.com/Nisa-fatima369](your-github-URL)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nisa-fatima-55679a227">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/nisafatima_369">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/nisafatima369?mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/Facebook-aqua?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
 
 I'm always open to collaborations and new projects, so don't hesitate to reach out.
 
